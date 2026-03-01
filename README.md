@@ -50,6 +50,8 @@ habit-heatmap/
 
 ## 🚀 Live Demo
 
+https://yash-aj44.github.io/Habit-Heatmap/
+
 
 
 Built as part of daily frontend practice (Day 3).
